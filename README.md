@@ -129,8 +129,8 @@ Docker images have been:
 
 ## 📸 Screenshots
 
-* Chatbot Interface and Chapter Selection → `img.png`
-* Sample Q&A Output → `img_1.png`
+* ![Chatbot Interface and Chapter Selection](img.png)
+* ![Sample Q&A Output](img_1.png)
 
 ---
 
