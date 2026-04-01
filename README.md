@@ -12,6 +12,18 @@ The system is **fully Dockerized** and has been **validated on AWS EC2**, while 
 
 ---
 
+## 🛠 Tech Stack
+
+* Python
+* RAG-based LLM Architecture
+* Vector Database
+* LangChain / RAG Framework
+* Docker
+* AWS EC2
+* Linux
+
+---
+
 ## 🎯 Use Case
 
 Students often struggle with:
@@ -89,17 +101,6 @@ study-with-me-rag/
 └── .gitignore
 ```
 
----
-
-## 🛠 Tech Stack
-
-* Python
-* RAG-based LLM Architecture
-* Vector Database
-* LangChain / RAG Framework
-* Docker
-* AWS EC2
-* Linux
 
 ---
 
